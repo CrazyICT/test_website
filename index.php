@@ -1,2 +1,2 @@
 <?php
-echo 'Test website';
+echo 'Test website: ' . date('Y-m-d h:i');
